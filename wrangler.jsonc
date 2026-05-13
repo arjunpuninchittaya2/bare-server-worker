@@ -1,0 +1,11 @@
+{
+	"name": "bare-server",
+	"compatibility_date": "2026-05-13",
+	"main": "dist/sw.js",
+	"kv_namespaces": [
+		{
+			"binding": "BARE",
+			"id": "40517b431f7544448f2385d89d2da207"
+		}
+	]
+}
